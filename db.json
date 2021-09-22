@@ -1,4 +1,4 @@
-"profile": {
+{"profile": {
   "id": 1,
   "name": "John Doe"
   "username": "johndoe"
@@ -22,4 +22,4 @@
   "phone": 9658236547
   "website": "www.johnsmith.com"
 }
-
+}
