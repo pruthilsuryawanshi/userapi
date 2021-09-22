@@ -5,21 +5,5 @@
   "email": "john@doe.com"
   "phone": 9856932154
   "website": "www.doe.com"
-},
-{
-  "id": 2,
-  "name": "Jane Doe"
-  "username": "janedoe"
-  "email": "jane@doe.com"
-  "phone": 8964641652
-  "website": "www.jane.com"
-},
-{
-  "id": 3,
-  "name": "John Smith"
-  "username": "johnsmith"
-  "email": "john@smith.com"
-  "phone": 9658236547
-  "website": "www.johnsmith.com"
 }
 }
