@@ -6,6 +6,13 @@
      "email": "john@doe.com",
      "phone": 9856322458,
      "website": "www.johndoe.com"
+    },
+    { "id": 2, 
+     "name": "Jane Doe",
+     "username": "janedoe",
+     "email": "jane@doe.com",
+     "phone": 9856325958,
+     "website": "www.janedoe.com"
     }
   ]
 }
